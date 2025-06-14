@@ -1,0 +1,113 @@
+{
+  "heading": "Two Events Sample Space",
+  "topics": [
+    {
+      "heading": "Two Events Sample Space",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Two spinners with colors: red, blue, and green are spun. Which of the following represents the correct structure of a two-way table for all possible outcomes?",
+    "options": [
+      { "image": "./assests/images/option/1.png" },
+      { "image": "./assests/images/option/2.png" },
+      { "image": "./assests/images/option/3.png" },
+      { "image": "./assests/images/option/4.png" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": "A game consists of spinning a spinner and rolling a die. Write the value of X, Y and Z in its 2 way table.",
+    "options": [
+      { "text": "X=1B, Y=2B, Z=5B" },
+      { "text": "X=1P, Y=2B, Z=5O" },
+      { "text": "X=3B, Y=1G, Z=5O" },
+      { "text": "X=1O, Y=5B, Z=5G" }
+    ],
+    "image": "./assests/images/question/1.png",
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": "What is the total number of outcomes when a coin is tossed twice?",
+    "options": [
+      { "text": "10" },
+      { "text": "8" },
+      { "text": "6" },
+      { "text": "4" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": "A die is rolled and a spinner with 4 colors (Red, Blue, Green, Yellow) is spun. Which of the following is in the sample space?",
+    "options": [
+      { "text": "5-Pink" },
+      { "text": "7-Red" },
+      { "text": "Red-5" },
+      { "text": "Green-9" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": "Two different 3-color spinners (Red, Blue, Yellow) are spun. What is the size of the sample space?",
+    "options": [
+      { "text": "3" },
+      { "text": "6" },
+      { "text": "9" },
+      { "text": "12" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": "A coin is tossed and a 4-color spinner (R, G, B, Y) is spun. What is the sample space?",
+    "options": [
+      { "text": "{R, G, B, Y, H, T}" },
+      { "text": "{RH, RT, GH, GT, BH, BT, YH, YT}" },
+      { "text": "{R1, G1, B1, Y1}" },
+      { "text": "{H, T}" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": "A bag has marbles numbered 1 to 4. You draw one marble and spin a 3-color spinner. How many total outcomes are possible?",
+    "options": [
+      { "text": "4" },
+      { "text": "7" },
+      { "text": "12" },
+      { "text": "16" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": "You select one letter from {A, B} and roll a standard die. Is \"B-2\" a possible outcome?",
+    "input": [
+      { "operand": "" }
+    ],
+    "answer": ["yes"]
+  },
+  {
+    "questionNo": 9,
+    "question": "You pick a dessert from {Cake, Ice cream, Pie} and a drink from {Juice, Milk}. Is \"Cake-Water\" a possible outcome?",
+    "input": [
+      { "operand": "" }
+    ],
+    "answer": ["no"]
+  },
+  {
+    "questionNo": 10,
+    "question": "You spin a spinner with colors {Red, Blue, Green} and toss a coin (Head, Tail). Is \"Green-Tail\" a possible outcome?",
+    "input": [
+      { "operand": "" }
+    ],
+    "answer": ["yes"]
+  }
+]
+
+    }
+  ]
+}
